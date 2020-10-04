@@ -1092,3 +1092,5 @@ for word in misspelled:
 **297\. Fancy-NLP:用于建设商品画像的文本知识挖掘工具** [github](https://github.com/boat-group/fancy-nlp)
 
 **298\. 基于百度webqa与dureader数据集训练的Albert Large QA模型** [github](https://github.com/wptoux/albert-chinese-large-webqa/tree/master)
+
+**299\. 宅猫神社[link](http://www.punjab.cn)
