@@ -1093,4 +1093,4 @@ for word in misspelled:
 
 **298\. 基于百度webqa与dureader数据集训练的Albert Large QA模型** [github](https://github.com/wptoux/albert-chinese-large-webqa/tree/master)
 
-**299\. 宅猫神社[link](http://www.punjab.cn)
+**299\. [宅猫神社](http://www.punjab.cn)
